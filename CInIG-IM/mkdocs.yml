@@ -30,10 +30,18 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - Inicio: index.md
-  - Acerca de: acerca_de.md
+  - Actividades: actividades.md
+  - Proyectos: proyectos.md
+  - Recursos: recursos.md
   - Integrantes: integrantes.md
+  - Protocolo: protocolo.md
   # - Documentación:
   #     - Introducción: docs/introduccion.md
   #     - Instalación: docs/instalacion.md

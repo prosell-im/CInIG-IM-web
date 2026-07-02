@@ -1,4 +1,5 @@
-# CInIG-IM
+# Comisión Interna para la Igualdad de Género del Instituto de Matemáticas
+
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
