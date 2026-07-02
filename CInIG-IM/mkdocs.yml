@@ -1,1 +1,43 @@
 site_name: CInIG-IM
+theme:
+  language: es
+  name: material
+  palette:
+    - scheme: default
+      primary: 'deep purple'
+      accent: 'purple'
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate 
+      primary: 'deep purple'
+      accent: 'purple'
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+  logo: assets/Logos-Blanco-800x268.png
+  favicon: assets/favicon.svg
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Inicio: index.md
+  - Acerca de: acerca_de.md
+  - Integrantes: integrantes.md
+  # - Documentación:
+  #     - Introducción: docs/introduccion.md
+  #     - Instalación: docs/instalacion.md
+  #     - Uso: docs/uso.md
+  #     - Configuración: docs/configuracion.md
+  # - API: docs/api.md
+  # - Contribuir: docs/contribuir.md
