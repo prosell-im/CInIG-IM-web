@@ -1,7 +1,21 @@
 site_name: CInIG-IM
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+
+plugins:
+  - search
+  - mkdocs-pdf
+
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   language: es
-  name: material
+  name: material    
   palette:
     - scheme: default
       primary: 'deep purple'
@@ -27,21 +41,17 @@ theme:
   logo: assets/Logos-Blanco-800x268.png
   favicon: assets/favicon.svg
 
-extra_css:
-  - stylesheets/extra.css
-
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+  icon:
+    admonition: 
+      info: fontawesome/regular/file-pdf
 
 nav:
   - Inicio: index.md
-  - Actividades: actividades.md
-  - Proyectos: proyectos.md
-  - Recursos: recursos.md
+#  - Actividades: actividades.md
+#  - Proyectos: proyectos.md
+#  - Recursos: recursos.md
   - Integrantes: integrantes.md
-  - Protocolo: protocolo.md
+#  - Protocolo: protocolo.md
   # - Documentación:
   #     - Introducción: docs/introduccion.md
   #     - Instalación: docs/instalacion.md

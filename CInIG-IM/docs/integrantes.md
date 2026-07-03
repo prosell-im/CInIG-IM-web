@@ -13,6 +13,6 @@
 |Lic. Daniela Colmenares Sierra | Integrante del sector estudiantil | Segundo semestre maestría, CU | 27/02/25 | 26/02/27| 
 |Mtra. Leydi Guadalupe Hernández López | Integrante del sector estudiantil | Segundo semestre doctorado, Cuernavaca | 27/02/25 | 26/02/27  | 
 
-??? note "Manual para la Conformación y Funcionamiento de la CInIG-IM"
+??? info "Manual para la Conformación y Funcionamiento de la CInIG-IM"
 
-    Bla bla bla.
+    ![Alt Text](pdfs/manual_cinig_im_2025.pdf#navpanes=0){ type=application/pdf style="width:100%;height:auto" }
