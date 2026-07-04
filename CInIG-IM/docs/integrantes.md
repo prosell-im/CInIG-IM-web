@@ -1,5 +1,7 @@
 # Integrantes de la CInIG-IM
 
+## Integrantes
+
 | Nombre | Sector | Nombramiento | Fecha de inicio | Fecha de término |
 |:--- | :--- | :--- | :--- | :--- |
 | Dra. Isabel Hubard Escalera | | Dirección (titular o representante) | Directora | 27/02/25 | 26/02/27 |
@@ -13,6 +15,8 @@
 |Lic. Daniela Colmenares Sierra | Integrante del sector estudiantil | Segundo semestre maestría, CU | 27/02/25 | 26/02/27| 
 |Mtra. Leydi Guadalupe Hernández López | Integrante del sector estudiantil | Segundo semestre doctorado, Cuernavaca | 27/02/25 | 26/02/27  | 
 
-??? info "Manual para la Conformación y Funcionamiento de la CInIG-IM"
+## Manual
 
-    ![Alt Text](pdfs/manual_cinig_im_2025.pdf#navpanes=0){ type=application/pdf style="width:100%;height:auto" }
+??? example "Manual para la Conformación y Funcionamiento de la CInIG-IM"
+
+    ![Alt Text](pdfs/manual_cinig_im_2025.pdf#navpanes=0){ type=application/pdf style="width:100%;min-height:600px" }

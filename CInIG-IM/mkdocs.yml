@@ -43,7 +43,7 @@ theme:
 
   icon:
     admonition: 
-      info: fontawesome/regular/file-pdf
+      example: material/file-document-outline
 
 nav:
   - Inicio: index.md
