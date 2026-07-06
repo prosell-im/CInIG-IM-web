@@ -5,7 +5,11 @@
   width: auto;   /* Maintains original aspect ratio */
 }
 
-/* Optional: Remove default padding/margin if making it maximum size */
-/* .md-logo {
-  padding: 4px 0; 
-} */
+.md-typeset h1, 
+.md-typeset h2, 
+.md-typeset h3, 
+.md-typeset h4, 
+.md-typeset h5, 
+.md-typeset h6 {
+  font-weight: 700; /* Use 'bold', 400, 500, 700, etc. */
+}
