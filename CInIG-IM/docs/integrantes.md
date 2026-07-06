@@ -4,7 +4,7 @@
 
 | Nombre | Sector | Nombramiento | Fecha de inicio | Fecha de término |
 |:--- | :--- | :--- | :--- | :--- |
-| Dra. Isabel Hubard Escalera | | Dirección (titular o representante) Directora | 27/02/25 | 26/02/27 |
+| Dra. Isabel Hubard Escalera | Dirección (titular o representante) | Directora | 27/02/25 | 26/02/27 |
 | - | Integrante con funciones operativas en la Dirección | - | - | - |
 | Dr. Pablo Rosell González | Integrante del Consejo Interno (personal académico) | Técnico Académico Titular “B”, CU | 27/02/25 | 30/08/26 |
 |Dr. Quentin Edouard Gendron | Integrante del sector académico | Investigador Titular “A”, CU | 27/02/25 | 26/02/27| 
